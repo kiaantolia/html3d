@@ -1,4 +1,4 @@
-function docs(){
+export function docs(){
   document.innerHTML = "hellow world";
   console.log("hewwo")
 }
