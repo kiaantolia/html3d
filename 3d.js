@@ -1,1 +1,3 @@
-alert("u r using superior.3d");
+function docs(){
+  document.innerHTML = "hellow world";
+}
